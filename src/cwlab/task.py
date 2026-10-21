@@ -17,9 +17,9 @@ from inspect_ai.model import ChatMessageSystem, GenerateConfig
 from inspect_ai.scorer import CORRECT, INCORRECT, Score, SampleScore, Target, accuracy, metric, scorer, stderr, value_to_float
 from inspect_ai.solver import Generate, TaskState, generate, solver
 
-from . import metrics as M
-from .parse import parse_judgement
-from .prompts import DECISIONS, VARIANTS, render_ad
+from cwlab import metrics as M
+from cwlab.parse import parse_judgement
+from cwlab.prompts import DECISIONS, VARIANTS, render_ad
 
 ROOT = Path(__file__).resolve().parents[2]
 
