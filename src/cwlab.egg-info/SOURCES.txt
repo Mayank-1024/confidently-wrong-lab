@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/cwlab/__init__.py
+src/cwlab/metrics.py
+src/cwlab/parse.py
+src/cwlab/prompts.py
+src/cwlab/task.py
+src/cwlab.egg-info/PKG-INFO
+src/cwlab.egg-info/SOURCES.txt
+src/cwlab.egg-info/dependency_links.txt
+src/cwlab.egg-info/requires.txt
+src/cwlab.egg-info/top_level.txt
+tests/test_metrics.py
+tests/test_parse.py
+tests/test_task_mock.py

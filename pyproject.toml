@@ -1,0 +1,10 @@
+[project]
+name = "cwlab"
+version = "0.1.0"
+description = "Confidently Wrong Lab: measuring when LLM judges are confidently wrong, and which oversight catches it"
+requires-python = ">=3.10"
+dependencies = ["inspect-ai>=0.3.282", "anthropic"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

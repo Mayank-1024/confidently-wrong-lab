@@ -1,0 +1,5 @@
+id,decision,labeler,notes
+fx-1,auto_approve,FIXTURE,test fixture only - not a real label
+fx-2,block,FIXTURE,test fixture only - not a real label
+fx-3,needs_review,FIXTURE,test fixture only - not a real label
+fx-4,needs_review,FIXTURE,test fixture only - not a real label

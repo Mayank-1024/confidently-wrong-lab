@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+logs/
+data/hf_ads.local.jsonl
+data/ads.jsonl
+.DS_Store
+* 2
+* 2.*
