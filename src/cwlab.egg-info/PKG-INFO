@@ -1,7 +1,0 @@
-Metadata-Version: 2.4
-Name: cwlab
-Version: 0.1.0
-Summary: Confidently Wrong Lab: measuring when LLM judges are confidently wrong, and which oversight catches it
-Requires-Python: >=3.10
-Requires-Dist: inspect-ai>=0.3.282
-Requires-Dist: anthropic

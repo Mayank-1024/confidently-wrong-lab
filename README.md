@@ -2,7 +2,7 @@
 
 **When an LLM judge says it's sure, how often is it wrong, and which oversight catches it?**
 
-Project 1 of a self-directed research track (plan: `AIS-OS/projects/confidently-wrong-lab/PLAN.md`). An LLM judges ads with the Madison Ad Check rubric (approve / review / block) and states its confidence (0-100). Its answers are scored against a person's hand labels with [Inspect](https://inspect.aisi.org.uk).
+Project 1 of a self-directed research track on LLM judges, oversight and agent safety. An LLM judges ads with the Madison Ad Check rubric (approve / review / block) and states its confidence (0-100). Its answers are scored against a person's hand labels with [Inspect](https://inspect.aisi.org.uk).
 
 ## Status (2026-10-21)
 | Piece | State |

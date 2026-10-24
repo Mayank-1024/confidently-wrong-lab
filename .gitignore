@@ -8,3 +8,4 @@ data/ads.jsonl
 .DS_Store
 * 2
 * 2.*
+*.egg-info/
